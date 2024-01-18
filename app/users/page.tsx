@@ -1,6 +1,3 @@
-// "use client";
-
-// import styled from "styled-components";
 import getAllUsers from "@/lib/getAllUsers";
 import Link from "next/link";
 

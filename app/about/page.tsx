@@ -1,7 +1,4 @@
-// "use client";
-
 import Link from "next/link";
-// import styled from "styled-components";
 
 export default function Abput() {
   //   throw new Error("No no nooo");
